@@ -1,6 +1,1 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = azure://dvc-container
-    account_name = mydvcstorage
-    account_key = DGkoaCMxRUQ/NzEjAgRCvAWPYFDErSNI28SFs3sZnYbLFAqrUerxBYr9vuImILdBrEMpxEnwYR0R+AStzYZDqA==
+
